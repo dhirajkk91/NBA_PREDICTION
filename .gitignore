@@ -22,3 +22,6 @@ ENV/
 
 # Data files over 50MB
 *.csv.zip
+
+# Kiro specs and configuration
+.kiro/
