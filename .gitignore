@@ -1,0 +1,24 @@
+# Large data files
+*.zip
+data/archive/PlayerStatistics.csv
+data/archive/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Data files over 50MB
+*.csv.zip
